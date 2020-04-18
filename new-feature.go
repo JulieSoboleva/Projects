@@ -1,1 +1,1 @@
-new content in go-file
+some content
